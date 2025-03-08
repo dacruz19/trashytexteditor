@@ -1,2 +1,2 @@
 # trashytexteditor
-A trashy text editor, pretty cool eh?
+A trashy text editor, pretty trash eh?
